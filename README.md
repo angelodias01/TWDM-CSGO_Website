@@ -101,18 +101,18 @@ The purpose of this project is to develop a website that through an api or data 
 
 - [X] Programar a secção principal
     - [X] Estilizar a secção principal
-- [ ] Programar a secção de "News"
-    - [ ] Estilizar a secção de News
-- [ ] Programar a secção de "Maps"
-    - [ ] Estilizar a secção do Sobre Maps
-- [ ] Programar a secção de "Skins"
-    - [ ] Estilizar a secção do "Skins"
-- [ ] Programar a secção de "Statistics"
-    - [ ] Estilizar a secção do "Statistics"
-- [ ] Programar a secção do "API"
+- [X] Programar a secção de "News"
+    - [X] Estilizar a secção de News
+- [X] Programar a secção de "Maps"
+    - [X] Estilizar a secção do Sobre Maps
+- [X] Programar a secção de "Skins"
+    - [X] Estilizar a secção do "Skins"
+- [X] Programar a secção de "Statistics"
+    - [X] Estilizar a secção do "Statistics"
+- [X] Programar a secção do "API"
     - [ ] Estilizar a secção do "API"
-- [ ] Programar a secção do "JSON"
-    - [ ] Estilizar a secção do "JSON"
+- [X] Programar a secção do "JSON"
+    - [X] Estilizar a secção do "JSON"
 
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -121,8 +121,8 @@ The purpose of this project is to develop a website that through an api or data 
 <!-- CREDITS -->
 ## CREDITS
 
-João Silva - <a href="https://github.com/JOao7640">Github</a>
+Ângelo Dias - <a href="https://github.com/JustaStudent01">Github</a>
 <br>
-Project Link: [https://github.com/JOao7640/HealthFinder](https://github.com/JOao7640/HealthFinder)
+Project Link: [https://github.com/JustaStudent01/TWDM-CSGO_Website](https://github.com/JustaStudent01/TWDM-CSGO_Website)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
