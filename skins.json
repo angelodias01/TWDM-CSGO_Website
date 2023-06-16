@@ -1,0 +1,41 @@
+{
+  "AWP": [
+    {
+      "name": "AWP",
+      "images": {
+        "image": "img/skins/awp/AWP1.png",
+        "image1": "img/skins/awp/AWP2.png",
+        "image2": "img/skins/awp/AWP3.png",
+        "image3": "img/skins/awp/AWP4.png",
+        "image4": "img/skins/awp/AWP5.png",
+        "image5": "img/skins/awp/AWP6.png"
+      }
+    }
+  ],
+  "AK47": [
+    {
+      "name": "AK47",
+      "images": {
+        "image": "img/skins/ak47/AK1.png",
+        "image1": "img/skins/ak47/AK2.png",
+        "image2": "img/skins/ak47/AK3.png",
+        "image3": "img/skins/ak47/AK4.png",
+        "image4": "img/skins/ak47/AK5.png",
+        "image5": "img/skins/ak47/AK6.png"
+      }
+    }
+  ],
+  "M4A4": [
+    {
+      "name": "M4A4",
+      "images": {
+        "image": "img/skins/m4a4/M4A41.png",
+        "image1": "img/skins/m4a4/M4A42.png",
+        "image2": "img/skins/m4a4/M4A43.png",
+        "image3": "img/skins/m4a4/M4A44.png",
+        "image4": "img/skins/m4a4/M4A45.png",
+        "image5": "img/skins/m4a4/M4A46.png"
+      }
+    }
+  ]
+}

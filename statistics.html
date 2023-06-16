@@ -1,0 +1,39 @@
+<!--All rights reserver to Ângelo Dias-->
+<!DOCTYPE html >
+<html lang="en">
+<head>
+  <title>CS:GO Website</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="header-image">
+          <img class="noStyle" src="img/csgo.png" alt="CS:GO Banner">
+        </div>
+        <nav>
+          <ul>
+            <li><a class="aBtn" href="index.html">Home</a></li>
+            <li><a class="aBtn" href="news.html">News</a></li>
+            <li><a class="aBtn" href="maps.html">Maps</a></li>
+            <li><a class="aBtn" href="skins.html">Skins</a></li>
+            <li><a class="aBtn" href="statistics.html">Statistics</a></li>
+          </ul>
+        </nav>
+    
+      </header>
+  <h1 class="user-stats">User Statistics</h1>
+  <div id="inputContainer">
+    <label for="steamIdInput">Enter Steam ID:</label>
+    <input type="text" id="steamIdInput">
+    <button id="fetchDataBtn">Fetch Achievements</button>
+  </div>
+  <div id="achievementsContainer">
+  </div>
+
+  <footer>
+    <p>CS:GO Website ♦︎ 24288 Ângelo Dias</p>
+  </footer>
+  <script src="apiscript.js"></script>
+</body>
+</html>
